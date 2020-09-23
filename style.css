@@ -1,8 +1,18 @@
+body{
+    font-family: "Lato";
+    font-size: 18px;
+    width: 2000;
+    margin: 0px;
+    background-color: black;
+    
+    
+}
+
 h1 {
     color: purple;
     margin-left: 25px;
 }
 h2 {
-    color: salmon;
+    color:rosybrown;
     margin-left: 18px;
 }
