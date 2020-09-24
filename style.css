@@ -8,23 +8,29 @@ body{
 
 h1 {
     color: purple;
-    margin-left: 200px;
+    margin-left: 100px;
 }
 h2 {
     color:rosybrown;
-    margin-left: 25px;
+    margin-left: 20px;
 }
 p {
     color: black;
-    margin-left: 70px;
+    margin-left: 40px;
 }
 li {
     color: black;
-    margin-left: 40px;
+    margin-left: 20px;
 }
 .container {
     display: flex;
     height: 20vh;
     width: 105vh;
     background-color: snow;
+}
+.basic {
+    display: grid;
+    grid-template-rows: 4rem auto 200px;
+    grid-template-columns: 50% 50%;
+
 }
