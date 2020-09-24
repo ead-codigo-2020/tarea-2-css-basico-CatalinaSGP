@@ -8,7 +8,7 @@ body{
 
 h1 {
     color: purple;
-    margin-left: 50px;
+    margin-left: 200px;
 }
 h2 {
     color:rosybrown;
@@ -16,9 +16,15 @@ h2 {
 }
 p {
     color: black;
-    margin-left: 45px;
+    margin-left: 70px;
 }
 li {
     color: black;
     margin-left: 40px;
+}
+.container {
+    display: flex;
+    height: 20vh;
+    width: 105vh;
+    background-color: snow;
 }
