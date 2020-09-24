@@ -3,14 +3,18 @@ body{
     font-size: 15px;
     background-color:#eeeeee;  
 }
-main {
-    width: 200vh;
-    margin-left: 100px;
+#container {
+    width: 70%;
+    margin: 0% auto;
+    border: 1px solid red ;
 }
-
+header {
+    background: snow;
+    height: 80px;
+}
 h1 {
     color: purple;
-    margin-left: 850px;
+    margin-left: 20px;
 }
 h2 {
     color:rosybrown;
@@ -24,13 +28,4 @@ p {
 li {
     color: black;
     margin-left: 20px;
-}
-.container {
-    display: flex;
-    height: 20vh;
-    width: 105vh;
-    background-color: snow;
-}
-.intro {
-    line-height: 8mm;
 }
