@@ -36,7 +36,7 @@ header {
 aside {
     float: left;
     width: calc(30% - 30px);
-    min-height: 850px;
+    min-height: 900px;
     background: #ee6f57;
     padding: 15px;
 }
@@ -49,3 +49,12 @@ li {
     color: black;
     line-height: 6mm;
 }
+img {
+    margin-top: 100px;
+}
+ aside p {
+     margin-top: 20px;
+ }
+ aside h2 {
+     margin-top: 70px;
+ }
